@@ -1,0 +1,22 @@
+mode: set
+github.com/forbole/bdjuno/v3/modules/utils/addresses.go:7.61,10.36 2 1
+github.com/forbole/bdjuno/v3/modules/utils/addresses.go:16.2,16.25 1 1
+github.com/forbole/bdjuno/v3/modules/utils/addresses.go:10.36,12.17 2 1
+github.com/forbole/bdjuno/v3/modules/utils/addresses.go:12.17,14.4 1 1
+github.com/forbole/bdjuno/v3/modules/utils/errors.go:9.39,10.12 1 0
+github.com/forbole/bdjuno/v3/modules/utils/errors.go:10.12,12.17 2 0
+github.com/forbole/bdjuno/v3/modules/utils/errors.go:12.17,14.4 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:15.47,18.2 2 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:21.64,25.16 4 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:29.2,29.44 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:25.16,27.3 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:32.71,34.31 2 1
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:42.2,42.20 1 1
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:34.31,41.3 1 1
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:46.61,48.16 2 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:52.2,55.16 3 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:59.2,60.16 2 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:64.2,64.12 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:48.16,50.3 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:55.16,57.3 1 0
+github.com/forbole/bdjuno/v3/modules/pricefeed/coingecko/apis.go:60.16,62.3 1 0
